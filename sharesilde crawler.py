@@ -11,12 +11,12 @@ from selenium.webdriver.common.keys import Keys
 
 output_path = '/Users/...' # Your output file path. Use ABSOLUTE PATH!
 start_point = 'https://www.slideshare.net/ZachBenedict3/zachary-benedict-resume-71651324'  # The page start to scrape
-username = 'example@gmail.com' #Your Linkedin account
-password = 'password' #Your Linkedin password
+username = 'example@gmail.com' # Your Linkedin account
+password = 'password' # Your Linkedin password
+search_depth = 2 # Depth you want search into
 
 main_window_handle = None
 url_set = set()
-search_depth = 2
 basic_url = "https://www.slideshare.net"
 num_of_file = 0
 
