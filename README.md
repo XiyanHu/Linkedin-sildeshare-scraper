@@ -37,6 +37,6 @@ $ python sharesilde_crawler.py
 The scraper will automatically download files in your output directory.(Resumes)
 
 ## ToDoList
-* headless seems doesn't work...
+* headless doesn't work...
 * Maybe Multiprocessing
 * Detect duplicate downloaded files
