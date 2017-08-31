@@ -11,7 +11,7 @@ $ pip install bs4
 * Selenium Webdriver
 ```
 $ pip install selenium
-```
+``` 
 
 * Replace or Update chromedriver to latest version according to your OS. [Download](http://chromedriver.storage.googleapis.com/index.html) 
 
@@ -33,9 +33,10 @@ $ python sharesilde_crawler.py
 
 ## Results
 ![results](https://github.com/XiyanHu/Linkedin-sildeshare-scraper/blob/master/screenshots/results.png)
+
 The scraper will automatically download files in your output directory.(Resumes)
 
-##ToDoList
+## ToDoList
 * headless seems doesn't work...
 * Maybe Multiprocessing
 * Detect duplicate downloaded files
