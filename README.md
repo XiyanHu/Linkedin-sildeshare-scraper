@@ -31,6 +31,9 @@ $ pip install selenium
 $ python sharesilde_crawler.py
 ```
 
+Linkedin will limit the number of downloads in 24 hours each account. So you can try more test accounts.
+
+
 ## Results
 ![results](https://github.com/XiyanHu/Linkedin-sildeshare-scraper/blob/master/screenshots/results.png)
 
